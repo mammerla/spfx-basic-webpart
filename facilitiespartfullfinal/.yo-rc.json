@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "facilities",
+    "libraryId": "379aa637-28af-42af-896c-64d29a18bc18",
+    "framework": "react"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "solution": {
     "name": "facilities-client-side-solution",
-    "id": "7f5da356-a377-4c8c-8cbf-a777772eb1cb",
+    "id": "13aceff4-93a6-487b-bd67-30b7b477856b",
     "version": "1.0.0.0"
   },
   "paths": {
-    "zippedPackage": "solution/facilities.spapp"
+    "zippedPackage": "solution/facilities.sppkg"
   }
 }
